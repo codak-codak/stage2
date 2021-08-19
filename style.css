@@ -1,0 +1,42 @@
+body{
+    background: rgb(230, 227, 227);
+    min-height: 100vh;
+}
+h1{
+    font-size: 70px;
+    font-family: monospace;
+    font-weight: 1000;
+    color: rgb(19, 18, 18);
+    text-align: center;
+}
+h2{
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+h3{
+    background: rgb(49, 48, 49);
+    color: lavenderblush;
+}
+
+ h4 {
+     background-color:beige ;
+ }  
+a {
+    color: red;
+    text-decoration: none;
+    position: relative;
+   
+}
+
+a:hover {
+    color:#474949; 
+    text-decoration:none; 
+    cursor:pointer;
+.image{
+    position: relative;
+    bottom: 0;
+   left: 550px;
+  }
